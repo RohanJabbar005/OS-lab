@@ -1,1 +1,5 @@
-In this repository, we will upload all the lab tasks we will do in OS lab
+# Operating Systems Laboratory
+
+Welcome to the repository for all practical lab implementations and tasks completed during the Operating Systems (OS) Laboratory course.
+
+---
