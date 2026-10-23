@@ -7,4 +7,4 @@ Welcome to the repository for all practical lab implementations and tasks comple
 ## 📌 Repository Structure
 
 ```text
-├── Lab-01/          # Basic Linux Commands & Shell Basics
+├── Lab-01/          # Applying Basic Linux Commands 
